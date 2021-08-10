@@ -10,4 +10,3 @@
 * [记一次优化代码](https://github.com/wangweida/blog/issues/17)
 * [Vue异步更新队列从入门到放弃](https://github.com/wangweida/blog/issues/25)
 * [优化页面的打开速度，了解下~](https://github.com/wangweida/blog/issues/27)
-* [不吹不黑比对下React与Vue的差异与优劣](https://github.com/wangweida/blog/issues/29)
